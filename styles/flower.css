@@ -235,3 +235,81 @@ font-weight: 400;
 .copyright{
     padding-bottom: 100px;
 }
+
+.pinkflowertree{
+    /* border-radius: 300px 300px 0px 0px; */
+    border-top-left-radius: 200px;
+    border-top-right-radius: 200px;
+    
+    /* border:2px solid red; */
+    margin:20px;
+
+    background: rgba(167, 33, 98, 0.15); 
+    
+    width: 20%;
+    height: 300px;
+    background-image: url(../images/pngwing6.png);
+    padding:40px;
+    background-size: 50%;
+    background-repeat: no-repeat;
+    background-position: bottom center;
+}
+.redflowertree{
+    /* border-radius: 300px 300px 0px 0px; */
+    border-top-left-radius: 200px;
+    border-top-right-radius: 200px;
+    
+    /* border:2px solid red; */
+    margin:20px;
+
+    background: rgba(5, 151, 160, 0.15); 
+    
+    width: 20%;
+    height: 300px;
+    background-image: url(../images/pngwing5.png);
+    padding:40px;
+    background-size: 80%;
+    background-repeat: no-repeat;
+    background-position: bottom center;
+}
+.yellowflowertree{
+    /* border-radius: 300px 300px 0px 0px; */
+    border-top-left-radius: 200px;
+    border-top-right-radius: 200px;
+    
+    /* border:2px solid red; */
+    margin:20px;
+
+    background: rgba(171, 125, 17, 0.15); 
+    
+    width: 20%;
+    height: 300px;
+    background-image: url(../images/pngwing7.png);
+    padding:40px;
+    background-size: 60%;
+    background-repeat: no-repeat;
+    background-position: bottom center;
+}
+.backgroundcylender{
+    display:flex;
+    justify-content: space-around;
+
+}
+.markflower{
+    color: #272727;
+text-align: center;
+
+font-size: 40px;
+
+font-weight: 800;
+line-height: normal;
+}
+.markflowertagline{
+color: rgba(39, 39, 39, 0.60);
+text-align: center;
+
+font-size: 18px;
+
+font-weight: 400;
+line-height: 30px;
+}
