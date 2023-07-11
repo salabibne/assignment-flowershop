@@ -169,3 +169,23 @@ margin-top:15px;
 
 
 }
+.inputbox{
+    height:50px;
+    width:600px;
+    border-radius: 8px;
+
+}
+/* .formsubscribe{
+    display: flex;
+    justify-content:space-between;
+    gap:16px
+
+    
+} */
+.inputfill{
+    
+    margin-left:310px
+}
+/* .subscribefill{ */
+
+/* } */
