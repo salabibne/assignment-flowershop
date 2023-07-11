@@ -49,3 +49,54 @@ background: #E55473;
 padding:20px 43px;
 border:none
 }
+.off{
+    color:#E55473;
+}
+.dealparent{
+    display:flex;
+    
+    /* justify-content: space-between; */
+    gap:215px
+    
+
+}
+.dealtitle{
+
+
+color: #272727;
+
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+margin:230px 0px 0px 150px;
+padding:5px;
+
+}
+.dealp{
+    color: rgba(39, 39, 39, 0.60);
+
+
+font-size: 18px;
+
+font-weight: 400;
+margin:0px 0px 10px 155px;
+/* padding:5px; */
+
+}
+
+
+/* .btnpos{ */
+
+.dealchild2{
+    margin:100px 300px 100px 0px;
+}
+
+.dealsection{
+    border-radius: 8px;
+background: rgba(229, 84, 115, 0.05);
+}
+.btnpos{
+    margin:0px 0px 0px  350px;
+    margin-top: 5px;
+}
+    
