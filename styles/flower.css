@@ -1,0 +1,51 @@
+body{
+    font-family: 'Lato', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Poppins', sans-serif;
+}
+.headtitle{
+    color: #272727;
+
+font-size: 80px;
+
+font-weight: 800;
+
+
+}
+
+.headsection{
+    background: rgba(229, 84, 115, 0.10);
+}
+.headparent{
+    display:flex;
+    justify-content: space-between;
+    gap:5px
+}
+.headchild1{
+    margin:150px 0px 100px 200px
+}
+.headchild2{
+    width: 635px;
+    height: 800px;
+
+border-bottom: 0px;
+}
+.headp{
+    color: rgba(39, 39, 39, 0.60);
+
+font-size: 18px;
+
+font-weight: 400;
+
+}
+.btn{
+   
+
+font-size: 20px;
+color: #FFF;
+font-weight: 700;
+border-radius: 8px;
+background: #E55473;
+padding:20px 43px;
+border:none
+}
