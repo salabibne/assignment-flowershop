@@ -134,4 +134,38 @@ padding: 15px;
     gap:10px
 
 }
-    
+.latestdetails{
+    background-image: url('../images/rectangle9.png');
+   width: 1440px;
+   height:450px;
+   
+   margin-left: 90px;
+   margin-right: 90px;
+   border-radius: 8px;
+
+}
+.detailstitle{
+color: #272727;
+text-align: center;
+
+font-size: 40px;
+
+font-weight: 800;
+margin: 122px 300px 0px 300px;
+
+padding-top: 20px;
+
+
+}
+
+.cupon{
+    color: rgba(39, 39, 39, 0.60);
+text-align:center;
+font-size: 18px;
+
+font-weight: 400;
+
+margin-top:15px;
+
+
+}
